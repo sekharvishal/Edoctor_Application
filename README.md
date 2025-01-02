@@ -30,7 +30,7 @@ The e-Doctor Appointment System is a user-friendly web application designed to s
   -	MySQL Server
 ### Steps to Set Up:
   1.	Clone the repository:
-  -	git clone https://github.com/ananyakrishnaeemani/Doctor.git
+  -	git clone https://github.com/sekharvishal/Edoctor_Application.git
   2.	Set up the Frontend:
         -	cd frontend
         -	npm install
